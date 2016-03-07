@@ -1,0 +1,53 @@
+﻿  pointTracker.cpp
+..\..\include\itf/trackers/trackers.h(160): error C2143: syntax error : missing ';' before '*'
+..\..\include\itf/trackers/trackers.h(160): error C2932: 'MemBuff<int>' : template-class-id redefined as a data member of 'CrowdTracker'
+..\..\include\itf/trackers/trackers.h(160): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+..\..\include\itf/trackers/trackers.h(88): error C2065: 'nbCount' : undeclared identifier
+..\..\include\itf/trackers/trackers.h(88): error C2227: left of '->cpu_ptr' must point to class/struct/union/generic type
+          type is 'unknown-type'
+..\..\src\itf\trackers\pointTracker.cpp(104): error C2065: 'nbCount' : undeclared identifier
+..\..\src\itf\trackers\pointTracker.cpp(316): error C2065: 'nbCount' : undeclared identifier
+..\..\src\itf\trackers\pointTracker.cpp(316): error C2227: left of '->SyncD2H' must point to class/struct/union/generic type
+          type is 'unknown-type'
+..\..\src\itf\trackers\pointTracker.cpp(447): error C2065: 'nbCount' : undeclared identifier
+..\..\src\itf\trackers\pointTracker.cpp(447): error C2227: left of '->cpu_ptr' must point to class/struct/union/generic type
+          type is 'unknown-type'
+..\..\src\itf\trackers\pointTracker.cpp(540): error C2065: 'nbCount' : undeclared identifier
+..\..\src\itf\trackers\pointTracker.cpp(540): error C2227: left of '->cpu_ptr' must point to class/struct/union/generic type
+          type is 'unknown-type'
+  targetfinder.cpp
+..\..\include\itf/trackers/trackers.h(160): error C2143: syntax error : missing ';' before '*'
+..\..\include\itf/trackers/trackers.h(160): error C2932: 'MemBuff<int>' : template-class-id redefined as a data member of 'CrowdTracker'
+..\..\include\itf/trackers/trackers.h(160): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+..\..\include\itf/trackers/trackers.h(88): error C2065: 'nbCount' : undeclared identifier
+..\..\include\itf/trackers/trackers.h(88): error C2227: left of '->cpu_ptr' must point to class/struct/union/generic type
+          type is 'unknown-type'
+  mainwindow.cpp
+..\..\include\itf/trackers/trackers.h(160): error C2143: syntax error : missing ';' before '*'
+..\..\include\itf/trackers/trackers.h(160): error C2932: 'MemBuff<int>' : template-class-id redefined as a data member of 'CrowdTracker'
+..\..\include\itf/trackers/trackers.h(160): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+..\..\include\itf/trackers/trackers.h(88): error C2065: 'nbCount' : undeclared identifier
+..\..\include\itf/trackers/trackers.h(88): error C2227: left of '->cpu_ptr' must point to class/struct/union/generic type
+          type is 'unknown-type'
+  streamthread.cpp
+..\..\include\itf/trackers/trackers.h(160): error C2143: syntax error : missing ';' before '*'
+..\..\include\itf/trackers/trackers.h(160): error C2932: 'MemBuff<int>' : template-class-id redefined as a data member of 'CrowdTracker'
+..\..\include\itf/trackers/trackers.h(160): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+..\..\include\itf/trackers/trackers.h(88): error C2065: 'nbCount' : undeclared identifier
+..\..\include\itf/trackers/trackers.h(88): error C2227: left of '->cpu_ptr' must point to class/struct/union/generic type
+          type is 'unknown-type'
+  viewqt.cpp
+..\..\include\itf/trackers/trackers.h(160): error C2143: syntax error : missing ';' before '*'
+..\..\include\itf/trackers/trackers.h(160): error C2932: 'MemBuff<int>' : template-class-id redefined as a data member of 'CrowdTracker'
+..\..\include\itf/trackers/trackers.h(160): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+..\..\include\itf/trackers/trackers.h(88): error C2065: 'nbCount' : undeclared identifier
+..\..\include\itf/trackers/trackers.h(88): error C2227: left of '->cpu_ptr' must point to class/struct/union/generic type
+          type is 'unknown-type'
+  moc_streamthread.cpp
+..\..\include\itf/trackers/trackers.h(160): error C2143: syntax error : missing ';' before '*'
+..\..\include\itf/trackers/trackers.h(160): error C2932: 'MemBuff<int>' : template-class-id redefined as a data member of 'CrowdTracker'
+..\..\include\itf/trackers/trackers.h(160): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+..\..\include\itf/trackers/trackers.h(88): error C2065: 'nbCount' : undeclared identifier
+..\..\include\itf/trackers/trackers.h(88): error C2227: left of '->cpu_ptr' must point to class/struct/union/generic type
+          type is 'unknown-type'
+  Generating Code...
